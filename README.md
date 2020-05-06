@@ -1,4 +1,5 @@
-Archaeology Digital Portfolio
+#Archaeology Digital Portfolio#
+
 Welcome to my portfolio for Archaeological Data Ananlysis! This contains various projects worked on throughout the semester.
 
 
@@ -21,10 +22,10 @@ This project sought to create a rescaled map of Ptolemy's data regarding geogrpa
 
 **Final Project**
 
-# Topic Modelling Greek Vases #
+## Topic Modelling Greek Vases ##
 
 
-[example](Euthymides.cex)
+
 
 
 [Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
