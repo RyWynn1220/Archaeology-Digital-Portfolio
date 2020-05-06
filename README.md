@@ -23,13 +23,16 @@ This project sought to create a rescaled map of Ptolemy's data regarding geogrpa
 
 **Final Project**
 
-Topic Modelling Greek Vases
+![Topic Modelling Greek Vases]
+
+(Final_Project.md)//
 
 
 
 
 
 [Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
+
 Link to our work on a Jupyter Notebook:
 
 
