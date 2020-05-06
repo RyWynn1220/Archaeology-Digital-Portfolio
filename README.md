@@ -11,7 +11,7 @@ Below is a link that showcases our Final Project
 
 [Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
 
-[Link to Jupyter Notebook](https://notebooks.gesis.org/binder/jupyter/user/rywynn1220-arch-gital-portfolio-jnikklw4/notebooks/Beazley_Topic_Modeling_Final_Project.ipynb)
+[Link to Jupyter Notebook](https://mybinder.org/v2/gh/RyWynn1220/Archaeology-Digital-Portfolio/9940bc0d9134e797cd30f3d4215b3d8973181c78)
 
 
 ### *Other Projects* ###
