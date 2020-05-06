@@ -40,16 +40,6 @@ This project sought to create a rescaled map of Ptolemy's data regarding geogrpa
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RyWynn1220/clas299/master)
 
 
-**Final Project**
-
-![Topic Modelling Greek Vases](Beazley-Vases-Final-Project.md)
-
-
-
-
-[Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
-
-[Link to Jupyter Notebook](https://notebooks.gesis.org/binder/jupyter/user/rywynn1220-arch-gital-portfolio-jnikklw4/notebooks/Beazley_Topic_Modeling_Final_Project.ipynb)
 
 
 
