@@ -7,7 +7,7 @@ Welcome to my portfolio for Archaeological Data Ananlysis! This contains various
 
 Below is a link that showcases our Final Project
 
-![Topic Modelling Greek Vases](Beazley-Vases-Final-Project.md)
+[Topic Modelling Greek Vases](Beazley-Vases-Final-Project.md)
 
 [Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
 
