@@ -23,7 +23,7 @@ This project sought to create a rescaled map of Ptolemy's data regarding geogrpa
 
 **Final Project**
 
-![Topic Modelling Greek Vases](Beazley_Final_Project.md)
+![Topic Modelling Greek Vases](Beazley Final Project.md)
 
 
 
