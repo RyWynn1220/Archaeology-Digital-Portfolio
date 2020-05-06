@@ -33,7 +33,7 @@ This project sought to create a rescaled map of Ptolemy's data regarding geogrpa
 
 [Link to Delimited Text File](http://shot.holycross.edu/ada-vases.tsv)
 
-Link to our work on a Jupyter Notebook:
+[Link to our work on a Jupyter Notebook](https://github.com/RyWynn1220/Archaeology-Digital-Portfolio/blob/master/Beazley_Topic_Modeling_Final_Project.ipynb)
 
 
 **My Binder**
